@@ -6,7 +6,7 @@ import sys
 
 # TODO: to be reviewed
 # import project path to `PYTHONPATH` so that can be found by the Django project,
-# but NOT the path of `django_package` package!
+# but NOT the path of `django_coding_devops` package!
 #
 # Ref:
 #   - https://stackoverflow.com/questions/3108285/in-python-script-how-do-i-set-pythonpath/3108301
