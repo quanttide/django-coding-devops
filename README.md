@@ -1,8 +1,16 @@
-# `django-coding-devops`
+# django-coding-devops
 
 Django SDK for Coding DevOps
 
+## Installation
+
+```shell
+pip install django-coding-devops
+```
+
 ## Usage
+
+Define your Coding project and depot models like this:
 
 ```python
 from django_coding_devops.models import BaseDepot
